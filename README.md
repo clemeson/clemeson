@@ -10,8 +10,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 </a>
 
-[#2](https://github.com/clemesonb/github-stats/issues/2),
-[#3](https://github.com/clemeson/github-stats/issues/3), and
+[#2](https://github.com/clemeson/github-stats/issues/2),
+[#3](https://github.com/clemeson/github-stats/issues/3), 
 [#13](https://github.com/clemeson/github-stats/issues/13).
 
 
