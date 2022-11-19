@@ -1,19 +1,20 @@
+<div align="center">
+  <a href="https://github.com/clemeson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clemeson&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<!---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemeson&layout=dafrkt&langs_count=3&theme=nord"/> -->
+</div>
 
-#Clemeson
+  
+<div style="display: inline_block" align="center"><br>
+  <p>Web2/Web3 Developer</p>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/node.js">
+   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/adonisjs">
+     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/solidity">
+   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/figma">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/docker">
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/clemeson/github-stats">
-<img src="https://github.com/clemeson/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/clemeson/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
-</a>
-
-[#2](https://github.com/clemeson/github-stats/issues/2),
-[#3](https://github.com/clemeson/github-stats/issues/3), 
-[#13](https://github.com/clemeson/github-stats/issues/13).
-
-
-
+</div>
 
