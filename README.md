@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/clemeson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clemeson&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<!---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemeson&layout=dafrkt&langs_count=3&theme=nord"/> -->
+
 </div>
 
   
